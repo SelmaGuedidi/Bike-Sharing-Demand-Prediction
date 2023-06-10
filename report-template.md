@@ -6,7 +6,7 @@
 Before submitting predictions I had to round negative prediction values to 0.
 
 ### What was the top ranked model that performed?
-TODO: Add your explanation
+the last model submitted with hyperparameter tuning is the top ranked model with a score of 0.45495.
 
 ## Exploratory data analysis and feature creation
 ### What did the exploratory analysis find and how did you add additional features?
